@@ -1,4 +1,4 @@
-Hi! My name is Norman, and I'm a Android Software Engineer. 
+Hi! My name is Norman, and I'm a Android Software Engineer and MSc Student in Data Science. 
 
 ## My 2021 stack:
 - 📱 Kotlin for mobile development
