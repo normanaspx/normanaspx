@@ -1,8 +1,8 @@
 Hi! My name is Norman, and I'm a Android Software Engineer and MSc Student in Data Science. 
 
-## My 2021 stack:
-- 📱 Kotlin for mobile development
-- 📱 Java for mobile development
+### My 2021 stack:
+- 📱 Kotlin for Mobile development
+- 📱 Java for Mobile development
 - 🧪 Python for Data Science
 - 🧪 R for Data Science
 
