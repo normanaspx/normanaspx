@@ -1,4 +1,10 @@
-Hi! My name is Norman, and I'm a Android Software Engineer. I develop with Kotlin, Java, Python for Machine Learning.
+Hi! My name is Norman, and I'm a Android Software Engineer. 
+
+## My 2021 stack:
+- 📱 Kotlin for mobile development
+- 📱 Java for mobile development
+- 🧪 Python for Data Science
+- 🧪 R for Data Science
 
 👯 I’m looking to collaborate on any fun projects!
 
