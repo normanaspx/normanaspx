@@ -1,5 +1,5 @@
 Hi! My name is Norman, and I'm a Android Software Engineer at <a href="https://xumak.com/" target="_blank">Wunderman Thompson</a> and Master's Degree Student in Data Science. 
-<a href="http://example.com/" target="_blank">Hello, world!</a>
+[link](https://xumak.com/){:target="_blank"}
 - ☀️ In the morning: Software Engineer.
 - 🌃 In the evening: Data Science Student 
 
