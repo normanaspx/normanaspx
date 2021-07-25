@@ -7,7 +7,7 @@ Hi! My name is Norman, and I'm a Android Software Engineer at <a href="https://x
 - 📱 Java for Mobile development
 - 🧪 Python for Data Science
 - 🧪 R for Data Science
-- 🤓 Math, Statistics and Computer Science for Data Science
+- 🤓 Math and Statistics for Data Science
 
 👯 I’m looking to collaborate on any fun projects!
 
